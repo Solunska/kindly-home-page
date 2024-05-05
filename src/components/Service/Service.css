@@ -1,0 +1,22 @@
+.service-container {
+    height: 50%;
+    width: 20%;
+    background-color: rgb(255, 255, 255);
+    margin: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 2em;
+    border-radius: 2em;
+}
+
+.service-container img {
+    height: 70%;
+    margin: 0 auto;
+}
+
+.service-label {
+    height: 20%;
+    font-size: 1.5em;
+    text-align: center;
+}
