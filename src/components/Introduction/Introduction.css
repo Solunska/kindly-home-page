@@ -21,7 +21,7 @@
 .info-container p {
     font-size: 2em;
     padding: 0.3em 0 1em 0;
-    color: #0d203a;
+    color: #000000;
 }
 
 .background-container {
@@ -33,6 +33,7 @@
 }
 
 .logo-img {
-    margin-left: 3em;
+
     margin-bottom: 1.5em;
+    width: 65%;
 }

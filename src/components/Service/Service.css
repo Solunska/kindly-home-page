@@ -1,17 +1,19 @@
 .service-container {
-    height: 50%;
-    width: 20%;
+    height: 60%;
+    width: 25%;
     background-color: rgb(255, 255, 255);
     margin: 1em;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    padding: 2em;
+    justify-content: space-around;
+    padding: 1em;
     border-radius: 2em;
+    cursor: pointer;
+    border: none;
 }
 
 .service-container img {
-    height: 70%;
+    height: 90%;
     margin: 0 auto;
 }
 
@@ -19,4 +21,5 @@
     height: 20%;
     font-size: 1.5em;
     text-align: center;
+    margin: 0 auto;
 }

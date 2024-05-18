@@ -1,7 +1,7 @@
 import Service from '../Service/Service';
 import './Services.css';
-import childcare from '../../assets/childcare-icon.png';
-import petcare from '../../assets/petcare-icon.png';
+import childcare from '../../assets/child-care-icon.png';
+import petcare from '../../assets/pet-care-icon.png';
 import eldercare from '../../assets/elder-care-icon.png';
 
 export default function Services() {
